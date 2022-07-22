@@ -5,5 +5,5 @@
 layout: home
 ---
 
-![comma dude](/assets/dapper-comma-dude.svg)
+![logo](/assets/oxford-comma-logo.svg)
 Currently working to migrate the site.
