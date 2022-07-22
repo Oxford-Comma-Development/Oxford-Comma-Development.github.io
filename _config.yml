@@ -21,7 +21,7 @@
 title: Oxford Comma Development
 # email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Custom web application development.
+  Web application developers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username:
